@@ -1,0 +1,37 @@
+$ git log
+commit 69059465f04e8667ef0e169195ad098385040964 (HEAD -> master, origin/master, bug3)
+Author: Mahmud Memedovski <memedoskim16@gmail.com>
+Date:   Sat Mar 25 13:25:18 2023 +0100
+
+    fix method sumEvenNumbers
+
+commit a3e79ca3ffe15f9af3757cb0aca2df5b0b8898e6
+Merge: fca2b2b 3dd88bb
+Author: Mahmud Memedovski <memedoskim16@gmail.com>
+Date:   Sat Mar 25 13:27:32 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 3dd88bb52993f771b59c7370db0658a651298b3b (bug2)
+Author: Mahmud Memedovski <memedoskim16@gmail.com>
+Date:   Sat Mar 25 13:24:14 2023 +0100
+
+    fix wrong conditio in filterOddNumbers
+
+commit fca2b2b0ff970f3d00eaeab66ef9ac65869e94f8 (bug1)
+Author: Mahmud Memedovski <memedoskim16@gmail.com>
+Date:   Sat Mar 25 13:22:59 2023 +0100
+
+    fix wrong loop for reading
+
+commit 926b10a0ec9128a33570784887d06d267c13da55
+Author: Mahmud Memedovski <memedoskim16@gmail.com>
+Date:   Sat Mar 25 13:20:49 2023 +0100
+
+    Add java class
+
+commit c0f3dbdf601bc4e62ddeea358c7215570204a1e5
+Author: Mahmud Memedovski <memedoskim16@gmail.com>
+Date:   Sat Mar 25 13:19:27 2023 +0100
+
+    Initial commit

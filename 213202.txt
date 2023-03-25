@@ -1,0 +1,39 @@
+4.git init
+5.git remote add origin https://github.com/MahmudMeme/SI_2023_lab1_213202.git
+6.nano README.md (Mahmud Memedovski 213202; komandi vo editorot:ctrl+o,enter,ctrl+x)
+  git add --all
+  git commit -m "Inital commit"
+7.nano SLlab1.java (ctrl+v,ctrl+o,enter,ctrl+x)
+	git add -all
+	git commit -m "add java class"
+8.git push origin master
+9.git branch bug1
+  git branch bug2
+  git branch bug3
+10.git checkout bug1
+11.nano Sllab1.java (ja popraviv greskata , zauvav i izlegov od editorot)
+	git commit -am "fix wrong loop for reading"
+12.git checkout bug2
+13.nano Sllab1.java (ja popraviv greskata , zauvav i izlegov od editorot)
+	git commit -am "fix wrong condition in filterOddNumbers."
+14.git checkout bug2
+15.nano Sllab1.java (ja popraviv greskata , zauvav i izlegov od editorot)
+	git commit -am "fix method sumEvenNumbers."
+16.git pull origin master
+17.git checkout master
+18.git merge bug1
+19. git pull origin master
+   git push origin master
+20 git merge bug2
+21. git pull origin master
+   git push origin master
+22. git checkout bug3
+23. git rebase master
+24.git check out master
+25. git merge bug3
+26.git pull origin master
+  git push origin master
+27. nano logs.txt (...)
+git commit -am "final commit"
+28.git pull origin mster
+git push origin master
