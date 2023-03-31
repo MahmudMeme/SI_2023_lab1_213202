@@ -21,16 +21,16 @@
 	git commit -am "fix method sumEvenNumbers."
 16.git pull origin master
 17.git checkout master
-18.git merge bug1
+18.git merge bug1 (ff)(nema konflikt)
 19. git pull origin master
    git push origin master
-20 git merge bug2
+20 git merge bug2 (rekurzivno)(nema konflikt)
 21. git pull origin master
    git push origin master
 22. git checkout bug3
 23. git rebase master
 24.git check out master
-25. git merge bug3
+25. git merge bug3 (ff) (ima konflikt)
 26.git pull origin master
   git push origin master
 27. nano logs.txt (...)
